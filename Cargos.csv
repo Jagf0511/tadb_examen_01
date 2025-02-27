@@ -1,0 +1,22 @@
+﻿id_cargo,cargo,id_departamento,salario
+1,Director de proyecto,1,2750
+2,Lider tecnico,1,2250
+3,Lider financiero,1,2150
+4,Arquitecto UX,2,2000
+5,Diseñador UI,2,1650
+6,InvestigadorUX,2,1800
+7,Diseñador de Interaccion,2,1650
+8,Arquitecto de soluciones,3,2500
+9,arquitecto de datos,3,2250
+10,ingeniero de datos,3,2000
+11,especialista APIs,3,2000
+12,Arquitecto de seguridad,4,2500
+13,Analista de seguridad,4,2000
+14,Ingeniero de pruebas seguridad,4,1750
+15,Lider equipo(master),5,1800
+16,Desarrollador senior,5,2300
+17,desarrollador junior,5,1600
+18,Analista de calidad,5,1500
+19,Arquitecto de DevOps,6,2500
+20,Ingeniero SRE,6,1900
+21,Analista mesa de ayuda,6,1200
